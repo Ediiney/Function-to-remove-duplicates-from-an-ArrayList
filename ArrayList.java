@@ -31,10 +31,7 @@ public class array {
         // Get the ArrayList with duplicate values
         ArrayList<Integer> list = new ArrayList<>(
                 Arrays
-                        .asList(10002695, 10011733, 10015636, 10018393, 10016740, 10013563, 10011638, 10016060,
-                                10016060, 10013878, 10015157, 10011752, 10015253, 10018606, 10018606, 10010962,
-                                10014593, 10009917, 10011931, 10015170, 10020076, 10018992, 10017774, 10017774,
-                                10010654, 10014603, 10014332, 10009867, 10014215, 10013336));
+                        .asList(value));
 
         // Print the Arraylist
         System.out.println("ArrayList with duplicates: "
